@@ -1,0 +1,1 @@
+1- collecte, nettoyage et préparation des données pour l'entrainement des modeles
